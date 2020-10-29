@@ -1,0 +1,54 @@
+PARAMETER SOLHFLH(AAA)  'Full load hours for solar heat (hours)'     
+/                                                                    
+AT_A                                                             600 
+BE_A                                                             1   
+BE_Offshore                                                      1   
+BG_A                                                             1   
+CH_A                                                             1   
+CY_A                                                             1   
+CY_Offshore                                                      1   
+CZ_A                                                             1   
+DE_A                                                             1   
+DE_Offshore                                                      1   
+DK_A                                                             1   
+DK_Offshore                                                      1   
+EE_A                                                             1   
+EE_Offshore                                                      1   
+ES_A                                                             1   
+ES_Offshore                                                      1   
+FI_A                                                             1   
+FI_Offshore                                                      1   
+FR_A                                                             1   
+FR_Offshore                                                      1   
+GR_A                                                             1   
+GR_Offshore                                                      1   
+HR_A                                                             1   
+HR_Offshore                                                      1   
+HU_A                                                             1   
+IE_A                                                             1   
+IE_Offshore                                                      1   
+IT_A                                                             1   
+IT_Offshore                                                      1   
+LT_A                                                             1   
+LT_Offshore                                                      1   
+LU_A                                                             1   
+LV_A                                                             1   
+LV_Offshore                                                      1   
+MT_A                                                             1   
+MT_Offshore                                                      1   
+NL_A                                                             1   
+NL_Offshore                                                      1   
+NO_A                                                             1   
+NO_Offshore                                                      1   
+PO_A                                                             1   
+PO_Offshore                                                      1   
+PT_A                                                             1   
+PT_Offshore                                                      1   
+RO_A                                                             1   
+SE_A                                                             1   
+SE_Offshore                                                      1   
+SI_A                                                             1   
+SK_A                                                             1   
+UK_A                                                             1   
+/;                                                                   
+*SOLHFLH(AAA)$(SOLHFLH(AAA) EQ 0) = SOLHFLH('AT_A') ;                

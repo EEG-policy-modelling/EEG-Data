@@ -1,0 +1,55 @@
+PARAMETER WTRRSFLH(AAA) 'Full load hours for hydro reservoir plants (hours)'                 
+* This parameter should be phased out.                                                       
+/                                                                                            
+AT_A                                                                         1328.9839313761 
+BE_A                                                                         3000            
+BE_Offshore                                                                  3000            
+BG_A                                                                         3000            
+CH_A                                                                         3000            
+CY_A                                                                         3000            
+CY_Offshore                                                                  3000            
+CZ_A                                                                         3000            
+DE_A                                                                         483.59752511806 
+DE_Offshore                                                                  3000            
+DK_A                                                                         3000            
+DK_Offshore                                                                  3000            
+EE_A                                                                         3000            
+EE_Offshore                                                                  3000            
+ES_A                                                                         3000            
+ES_Offshore                                                                  3000            
+FI_A                                                                         3000            
+FI_Offshore                                                                  3000            
+FR_A                                                                         666.579060128088
+FR_Offshore                                                                  3000            
+GR_A                                                                         3000            
+GR_Offshore                                                                  3000            
+HR_A                                                                         3000            
+HR_Offshore                                                                  3000            
+HU_A                                                                         3000            
+IE_A                                                                         3000            
+IE_Offshore                                                                  3000            
+IT_A                                                                         3000            
+IT_Offshore                                                                  3000            
+LT_A                                                                         3000            
+LT_Offshore                                                                  3000            
+LU_A                                                                         3000            
+LV_A                                                                         3000            
+LV_Offshore                                                                  3000            
+MT_A                                                                         3000            
+MT_Offshore                                                                  3000            
+NL_A                                                                         3000            
+NL_Offshore                                                                  3000            
+NO_A                                                                         3000            
+NO_Offshore                                                                  3000            
+PO_A                                                                         3000            
+PO_Offshore                                                                  3000            
+PT_A                                                                         3000            
+PT_Offshore                                                                  3000            
+RO_A                                                                         3000            
+SE_A                                                                         3000            
+SE_Offshore                                                                  3000            
+SI_A                                                                         3000            
+SK_A                                                                         3000            
+UK_A                                                                         3000            
+UK_Offshore                                                                  3000            
+/;                                                                                           

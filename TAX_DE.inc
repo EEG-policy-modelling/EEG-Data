@@ -1,0 +1,37 @@
+PARAMETER      TAX_DE(CCC,DEUSER) 'Consumers tax on electricity consumption (Money/MWh)'  
+/                                                                                         
+$ontext                                                                                   
+               RESE                                                                       
+AUSTRIA                                                                                   
+BELGIUM                                                                                   
+BULGARIA                                                                                  
+CROATIA                                                                                   
+CYPRUS                                                                                    
+CZECHIA                                                                                   
+DENMARK                                                                                   
+ESTONIA                                                                                   
+FINLAND                                                                                   
+FRANCE                                                                                    
+GERMANY                                                                                   
+GREECE                                                                                    
+HUNGARY                                                                                   
+IRELAND                                                                                   
+ITALY                                                                                     
+LATVIA                                                                                    
+LITHUANIA                                                                                 
+LUXEMBOURG                                                                                
+MALTA                                                                                     
+NETHERLANDS                                                                               
+NORWAY                                                                                    
+POLAND                                                                                    
+PORTUGAL                                                                                  
+ROMANIA                                                                                   
+SLOVAKIA                                                                                  
+SLOVENIA                                                                                  
+SPAIN                                                                                     
+SWEDEN                                                                                    
+SWITZERLAND                                                                               
+UNITED_KINGDOM                                                                            
+$offtext                                                                                  
+/;                                                                                        
+                                                                                          

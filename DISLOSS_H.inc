@@ -1,0 +1,56 @@
+PARAMETER DISLOSS_H(AAA)  'Loss in heat distribution (fraction)'                
+*DISLOSS_H(AAA) = 0;                                                            
+*10%: https://www.frontiersin.org/articles/10.3389/fbuil.2016.00022/full        
+/                                                                               
+AT_A                                                                     0.1    
+BE_A                                                                     0.1    
+BE_Offshore                                                              0.1    
+BG_A                                                                     0.1    
+CH_A                                                                     0.1    
+CY_A                                                                     0.1    
+CY_Offshore                                                              0.1    
+CZ_A                                                                     0.1    
+DE_A                                                                     0.1    
+DE_Offshore                                                              0.1    
+DK_A                                                                     0.1    
+DK_Offshore                                                              0.1    
+EE_A                                                                     0.1    
+EE_Offshore                                                              0.1    
+ES_A                                                                     0.1    
+ES_Offshore                                                              0.1    
+FI_A                                                                     0.1    
+FI_Offshore                                                              0.1    
+FR_A                                                                     0.1    
+FR_Offshore                                                              0.1    
+GR_A                                                                     0.1    
+GR_Offshore                                                              0.1    
+HR_A                                                                     0.1    
+HR_Offshore                                                              0.1    
+HU_A                                                                     0.1    
+IE_A                                                                     0.1    
+IE_Offshore                                                              0.1    
+IT_A                                                                     0.1    
+IT_Offshore                                                              0.1    
+LT_A                                                                     0.1    
+LT_Offshore                                                              0.1    
+LU_A                                                                     0.1    
+LV_A                                                                     0.1    
+LV_Offshore                                                              0.1    
+MT_A                                                                     0.1    
+MT_Offshore                                                              0.1    
+NL_A                                                                     0.1    
+NL_Offshore                                                              0.1    
+NO_A                                                                     0.1    
+NO_Offshore                                                              0.1    
+PO_A                                                                     0.1    
+PO_Offshore                                                              0.1    
+PT_A                                                                     0.1    
+PT_Offshore                                                              0.1    
+RO_A                                                                     0.1    
+SE_A                                                                     0.1    
+SE_Offshore                                                              0.1    
+SI_A                                                                     0.1    
+SK_A                                                                     0.1    
+UK_A                                                                     0.1    
+UK_Offshore                                                              0.1    
+/;                                                                              
