@@ -1,5 +1,5 @@
 PARAMETER DISCOST_E(RRR)  'Cost of electricity distribution (Money/MWh)'     
-* apparently not used in BB4 benutzt, only DISLOSS                           
+* apparently not used in BB4, only DISLOSS                                   
 /                                                                            
 AT                                                                       5   
 BE                                                                       5   
